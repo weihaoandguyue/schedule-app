@@ -1,0 +1,14 @@
+{
+	"appId": "com.schedule.reminder",
+	"webDir": "www",
+	"appName": "日程提醒助手",
+	"server": {
+		"androidScheme": "https"
+	},
+	"plugins": {
+		"LocalNotifications": {
+			"smallIcon": "ic_launcher",
+			"iconColor": "#667eea"
+		}
+	}
+}
